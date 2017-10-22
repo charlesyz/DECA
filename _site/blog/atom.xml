@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Hank Quinlan's Blog</title>
+ <link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://hankquinlan.github.io/blog"/>
+ <updated>2017-10-22T16:31:12-04:00</updated>
+ <id>http://hankquinlan.github.io/blog</id>
+ <author>
+   <name>Hank Quinlan</name>
+   <email>hankquinlanhub@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Number Theory</title>
+   <link href="http://hankquinlan.github.io/blog/2017/10/20/number-theory"/>
+   <updated>2017-10-20T00:00:00-04:00</updated>
+   <id>http://hankquinlan.github.io//blog/2017/10/20/number-theory</id>
+   <content type="html">&lt;p&gt;Today, Rena introduced us to Number Theory, the theory of numbers! Specifically, she introduced us prime factorization, LCF, CGM, and the euclidian algorithm. These rules are critical for speedy progress in math contests, and the euclidian algorithm really helps for non-calculator contests!&lt;/p&gt;
+
+&lt;p&gt;Remember to study for the COMC math contest, which will take place on Tuesday, November the 2nd&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1CncNWLv2maqwQ_FHaqFjmUGIh6cSrX_7aWXqQ7N6290/edit?usp=sharing&quot;&gt;Questions and additional materials&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;back&quot;&gt;&lt;a href=&quot;/blog&quot;&gt;Back&lt;/a&gt;&lt;/h2&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pigeon Hole Theory</title>
+   <link href="http://hankquinlan.github.io/blog/2017/10/13/pigeon-hole"/>
+   <updated>2017-10-13T00:00:00-04:00</updated>
+   <id>http://hankquinlan.github.io//blog/2017/10/13/pigeon-hole</id>
+   <content type="html">&lt;p&gt;Today, Charles introduced the Pigeon Hole Principle, which states that if you have n+1 pigeons but only n holes, there must be at least two pigeons in one hole. While this seems like a simple problem, when coupled with other principles it can be quite challanging!&lt;/p&gt;
+
+&lt;p&gt;There are three general steps for any pigeon hole problem:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Identify that it’s a pigeon hole problem&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;A big tip is when you have two numbers which are almost divisible, but one is slightly larger than a multiple of the other (eg. 20 boxes and 51 pieces). However, pigeon hole problems are not always that easy to see.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Identify what the pigons are and what the holes are&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This is a critical step to avoid making mistakes, and to make the process easy. What do you have? what are you trying to find?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Solve the rest of the problem&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Often, pigeon hole problems have an additional step beyond just the principle. This can be geometry, combinatorics, number theory, or even proofs!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1WuGOLmxC8-HkkIR877GtKr55kvMJNjpML6Ttpr5T1-4/edit?usp=sharing&quot;&gt;Questions and additional materials&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;back&quot;&gt;&lt;a href=&quot;/blog&quot;&gt;Back&lt;/a&gt;&lt;/h2&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First MC^2 Meeting of 2017-18</title>
+   <link href="http://hankquinlan.github.io/blog/2017/09/28/First-Meeting!"/>
+   <updated>2017-09-28T00:00:00-04:00</updated>
+   <id>http://hankquinlan.github.io//blog/2017/09/28/First-Meeting!</id>
+   <content type="html">&lt;p&gt;Welcome to the the 2017-18 school year!
+Today, David Salusbury from Carleton University visited our club and give a presentation on his new enrichment coures, &lt;a href=&quot;https://carleton.ca/math/math-connections-arts-science/&quot;&gt;Math connections in Science and Beyond&lt;/a&gt;. Carleton also have many other enrichment programs, and I definitely reccomend you check them out &lt;a href=&quot;https://carleton.ca/math/math-enrichment-centre/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;back&quot;&gt;&lt;a href=&quot;/blog&quot;&gt;Back&lt;/a&gt;&lt;/h2&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
