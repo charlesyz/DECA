@@ -16,5 +16,5 @@ You can find more training resources on our [resources page](/deca/resources)
 
 If you have any questions, email us at decalisgar@gmail.com, or go to our [facebook page](facebook.com/lisgardeca)
 
-## [Back](/deca/blog)
+## [Back](/blog)
 

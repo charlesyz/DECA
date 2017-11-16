@@ -12,5 +12,5 @@ If you did not register or know friends who want to join, as them to fill out [t
 Remember to practice for the DECA exam on the 31st of October, and be sure to come to next week's meeting as we'll be going over practice cases for the first time.
 
 
-## [Back](/deca/blog)
+## [Back](/blog)
 

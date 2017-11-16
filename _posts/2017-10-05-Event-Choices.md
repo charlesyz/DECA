@@ -9,5 +9,5 @@ Thanks to everybody who came to the meeting, we had an astounding turnout of 41 
  
  If you have any questions, don't hesitate to email us at decalisgar@gmail.com, or to go to our [facebook page](https://www.facebook.com/lisgarDeca).
 
-## [Back](/deca/blog)
+## [Back](/blog)
 

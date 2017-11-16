@@ -10,5 +10,5 @@ Congratulations to all that qualified, but even if you didn't qualify, its very 
 
 Today, we did another practice case, this time drawing more upon your members as a club and less on myself.  You can find the case study and notes [here](https://docs.google.com/document/d/1S5Of6WgQlbXg9dfZMOK9qad6MGJWKrzKhieq8pB52Wc/edit?usp=sharing)
 
-## [Back](/deca/blog)
+## [Back](/blog)
 

@@ -13,5 +13,5 @@ If you have any questions, don't hesitate to email us at decalisgar@gmail.com, o
 
 Our next meeting will be Thursday, September 27th at Lunch.
 
-## [Back](/deca/blog)
+## [Back](/blog)
 

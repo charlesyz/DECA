@@ -15,5 +15,5 @@ Study hard!
 
 
 
-## [Back](/deca/blog)
+## [Back](/blog)
 
