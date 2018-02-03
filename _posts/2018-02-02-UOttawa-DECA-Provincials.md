@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UOttawa DECA Training and Provincials Info"
-date: 2018-01-11
+date: 2018-02-2
 ---
 Hey guys! This week, Madison and Noah from the UOttawa DECA Chapter visited and gave some great tips for provincials. If you have any questions or would like to have the powerpoint, please contact me [here](decalisgar@gmail.com).
 
