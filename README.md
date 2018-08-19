@@ -1,3 +1,3 @@
-Lisgar Math Contest Club
+Lisgar DECA Club
 =====================
-Webpage for Lisgar's Math Contest Club
+Webpage for Lisgar's DECA club
